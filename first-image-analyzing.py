@@ -16,4 +16,4 @@ cv2.imshow('Window name:', image)
 cv2.waitKey(0)
 
 #Save file with another name
-cv2.imwrite('output.jpg', image)
+cv2.imwrite('/output-pictures/output.jpg', image)
